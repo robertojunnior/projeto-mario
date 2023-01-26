@@ -24,7 +24,7 @@ Projeto desenvolvido na semana DEV EM DOBRO junto com a @mariantune - A famosa B
 
   <div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
-    <img width="800px" src="./src/imagens/background-site.png" alt="projeto-site-mario">
+    <img src="./src/imagens/background-site.png" alt="projeto-site-mario">
     </a>
   </div>
 
@@ -32,7 +32,7 @@ Projeto desenvolvido na semana DEV EM DOBRO junto com a @mariantune - A famosa B
 <br>
 
 <br>
-🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO"
+🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
 </a>
 
 <br>
@@ -49,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site utiliza de background com vídeo e estilizações em CSS, inbtegração com JavaScript e algumas interações bem legais!
+O site utiliza de background com vídeo e estilizações em CSS, algumas interações com JavaScript bem legais!
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
