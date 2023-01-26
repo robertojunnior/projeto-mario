@@ -5,7 +5,7 @@
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
 
 <p align="center">
-Projeto desenvolvido na semana DEV EM DOBRO junto com a @mariantune - A famosa Boroca de Taubaté 😂
+Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO junto com a @mariantune - A famosa Boroca de Taubaté 😂
 </p>
 
 <p align="center">
