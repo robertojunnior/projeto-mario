@@ -126,16 +126,22 @@ body {
     background-color: rgba(55, 53, 53, 0.8);
 }
 
-.fechar-modal {
-    background-color: #a8adb7;
-    padding: 15px;
-    border-radius: 10px;
-    font-size: 24px;
-    width: 50px;
+.conteudo-modal {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    flex-direction: column;
+    gap: 15px;
+}
+
+.fechar-modal {
+    background-color: #ffffff;
+    color: #d5001d;
+    padding: 5px;
+    border-radius: 10px;
+    width: 40px;
+    text-align: center;
+   cursor: pointer;
 }
 
 
