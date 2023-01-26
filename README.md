@@ -1,5 +1,5 @@
-# projeto-mario <img width="40px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
-
+# <div align="center"> <img width="60px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
+<div/>
 
 
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
