@@ -1,4 +1,4 @@
-# projeto-mario <img width="50px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
+# projeto-mario <img width="40px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
 
 
 
