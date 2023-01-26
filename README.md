@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site utiliza de background com vídeo e estilizações em CSS, algumas interações com JavaScript bem legais!
+O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
