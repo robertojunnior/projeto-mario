@@ -1,11 +1,17 @@
 body {
-    font-family: 'Poppins';
+    font-family: 'Poppins', Arial, Helvetica, sans-serif;
 }
 
 .cabecalho {
-    background-color: blue;
+    background-color: #4495FF;
+    /* height: 60px; */
     display: flex;
+
     justify-content: space-between;
+
+    padding: 30px;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 
 .cabecalho .logo {
@@ -13,8 +19,74 @@ body {
 }
 
 .cabecalho .menu {
-    background-color: red;
     display: flex;
     align-items: center;
     height: 100%;
+    gap: 5px;
 }
+
+.cabecalho nav li a {
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    padding: 10px 20px;
+    border-radius: 50px;
+
+    transition: 0.5s;
+}
+
+.cabecalho nav li a:hover {
+    background-color: #d5001d;
+
+}
+
+.container {
+    background-color: rgb(235, 174, 42);
+    max-width: 1440px;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: center;
+
+    height: calc(100vh - 132px);
+    padding:0 30px 30px;
+}
+
+.container .imagem-titulo {
+    max-width: 500px;
+
+}
+
+.container .mario {
+    max-width: 400px;
+}
+
+.container .descricao {
+    color: #a8adb7;
+    width: 85%;
+    font-size: 18px;
+}
+
+
+
+footer {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    height: 60px;
+    width: 100vw;
+
+    background-color: #4495FF;
+    font-size: 14px;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#nome {
+    color: #DF2D37;
+}
+
