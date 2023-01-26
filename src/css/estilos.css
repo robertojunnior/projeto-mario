@@ -3,10 +3,7 @@ body {
 }
 
 .cabecalho {
-    /* background-color: #4495FF; */
-    /* height: 60px; */
     display: flex;
-
     justify-content: space-between;
 
     padding: 30px;
@@ -37,7 +34,6 @@ body {
 
 .cabecalho nav li a:hover {
     background-color: #d5001d;
-
 }
 
 .container {
@@ -53,10 +49,9 @@ body {
 
 .container .imagem-titulo {
     max-width: 500px;
-
 }
 
-.container .mario {
+.container .imagem-mario {
     max-width: 500px;
 }
 
