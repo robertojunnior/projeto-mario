@@ -5,7 +5,7 @@
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
 
 <p align="center">
-Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO junto com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
+Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
 </p>
 
 <p align="center">
@@ -48,7 +48,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site utiliza de background com vídeo e estilizações em CSS, algumas interações com JavaScript bem legais!
+O projeto esta em 60% aproximado de completude, faltando responsividade mobile e alguns detalhes.
+O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
