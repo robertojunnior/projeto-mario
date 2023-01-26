@@ -110,6 +110,20 @@ body {
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.60) 50%, rgba(0,0,0,1) 100%);
 }
 
+.modal {
+    background-color: #d5001d;
+    position: fixed;
+}
+
+
+
+
+
+
+
+
+
+
 footer {
     display: flex;
     position: absolute;
@@ -129,4 +143,7 @@ footer {
 #nome {
     color: #DF2D37;
 }
+
+
+
 
