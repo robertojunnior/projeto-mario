@@ -48,6 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+O projeto esta em 60% aproximado de completude, faltando responsividade mobile e alfuns detalhes.
 O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
