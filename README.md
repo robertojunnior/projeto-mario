@@ -24,11 +24,13 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a par
   <div align="center">
     <h4> Background Original Projeto Dev em Dobro
     <br>
+    <br>
     <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
     <img src="./src/imagens/background-site1.png" alt="projeto-site-mario">
     </a>
     <br>
     <h4> Background Trailer Oficial Universal Pictures 
+    <br>
     <br>
     <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
     <img src="./src/imagens/background-site.png" alt="projeto-site-mario">
