@@ -51,6 +51,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto esta em 60% aproximado de completude, faltando responsividade mobile e alguns detalhes.
 O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
 
+Na pasta vídeo, coloquei o arquivo do projeto mais o vídeo do Trailer Oficial do canal da Universal Pictures, assim tanto no background quanto no trailer você pode utilziar o vídeo real. <br> 
+<br>
+NOTA: Lembrando que o vídeo  Oficial está em 16:9 então as faixas pretas do Top e Botton estarão visíveis.
+
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
 
