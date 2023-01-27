@@ -25,6 +25,9 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a par
     <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
     <img src="./src/imagens/background-site.png" alt="projeto-site-mario">
     </a>
+    <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
+    <img src="./src/imagens/background-site1.png" alt="projeto-site-mario">
+    </a>
   </div>
 
 <br>
