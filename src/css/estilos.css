@@ -82,20 +82,19 @@ body {
 }
 
 .fundo-video {
-    background-color: #000000;
+    background-color: #060606;
     position: absolute;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     z-index: -1;
-    overflow: hidden;
     width: 100vw;  
     height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
 }
 
 .fundo-video .video {
     height: 100vh;
-    width: 100vw;
+    /* width: 100vw; */
 }
 
 .fundo-video::after {
@@ -107,7 +106,11 @@ body {
     top: 0;
     left: 0;
     
-    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.60) 50%, rgba(0,0,0,1) 100%);
+    background: linear-gradient(
+    90deg,
+    rgba(0,0,0,1) 0%, 
+    rgba(0,0,0,0.80) 50%, 
+    rgba(0,0,0,1) 100%);
 }
 
 .modal {
@@ -144,12 +147,18 @@ body {
    cursor: pointer;
 }
 
+/* .modal iframe {
+    border-width: 0;
+    width: 860px;
+    height: 480px;
+} */
 
-
-
-
-
-
+/* pode se colocar mais de uma classe em um elemento como no 
+exemplo abaixo onde se aborda as duas classes sem espaço */
+.modal.aberto {
+    opacity: 1;
+    visibility: visible;
+}
 
 footer {
     display: flex;
@@ -169,5 +178,5 @@ footer {
 
 #nome {
     color: #DF2D37;
-    font-size: 18px;
+   
 }
