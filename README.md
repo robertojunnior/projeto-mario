@@ -5,7 +5,7 @@
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
 
 <p align="center">
-Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
+  Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a par
 <br>
 
 <br>
-🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
+  🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
 </a>
 
 <br>
@@ -58,7 +58,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto esta em 60% aproximado de completude, faltando responsividade mobile e alguns detalhes.
+O projeto esta em 60% aproximado de completude, faltando responsividade mobile, interação com javascri e alguns detalhes.
 O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
 
 Na pasta vídeo, coloquei o arquivo do projeto mais o vídeo do Trailer Oficial do canal da Universal Pictures, assim tanto no background quanto no trailer você pode utilziar o vídeo real. <br> 
