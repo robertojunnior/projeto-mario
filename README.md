@@ -1,4 +1,4 @@
-# <div align="center"> <img width="60px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
+# <div align="center"> <img width="70px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario">
 </div>
 
 
