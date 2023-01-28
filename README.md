@@ -1,12 +1,12 @@
 # <div align="center"> 
-<a href="https://robertojunnior.github.io/projeto-mario/"><img width="70px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario"></a>
+  <a href="https://robertojunnior.github.io/projeto-mario/"><img width="70px" src="./src/imagens/cabeca-mario.png" alt="projeto-site-mario"></a>
 </div>
 
 
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
 
 <p align="center">
-Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
+  Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@ Projeto em desenvolvimento acompanhando a semana DEV EM DOBRO, codando com a par
 <br>
 
 <br>
-🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
+  🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
 </a>
 
 <br>
