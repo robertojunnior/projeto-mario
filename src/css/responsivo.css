@@ -62,15 +62,21 @@
     }
 }
 
-.modal .video {
-    width: 80%;
+.modal #video-iframe {
+   width: 300px;
+   height: 169px;
 }
 
-.fechar-modal {
+.modal .fechar-modal {
     width: 30px;
     line-height: 30px;
 }
 
+@media only screen and (max-width: 376px) {
+    .modal #video {
+        width: 250px;
+    }
+}
 
 
 /* RESPONSIVO DAS FONTES
