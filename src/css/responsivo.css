@@ -1,19 +1,41 @@
 @media (max-width: 1200px) {
     body {
-        /* background-color: blueviolet; */
-    
-    
-    
+        background-color: blueviolet;
     }
-
-
 
     .fundo-video {
         display: none;
     }
 
-    .imagem-titulo.imagem-mario {
+    .container {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+
+    .container .imagem-mario {
         width: 50%;
+    }
+
+    .container .informacoes {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .container .informacoes p {
+        color: #ffffff;
+    }
+
+
+  
+
+    #nome {
+        color: aliceblue;
     }
 
 }
