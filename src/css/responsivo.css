@@ -1,6 +1,10 @@
 @media (max-width: 1200px) {
     body {
-        background-color: blueviolet;
+        background-color: #d65248;
+    }
+
+    .cabecalho nav li a:hover {
+        background-color: #000000;
     }
 
     .fundo-video {
@@ -12,11 +16,16 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        
+        gap: 20px;
+        height: 80vh;
+    }
+
+    .container .imagem-titulo {
+        max-width: 70%;
     }
 
     .container .imagem-mario {
-        width: 50%;
+        max-width: 70%;
     }
 
     .container .informacoes {
@@ -31,11 +40,56 @@
         color: #ffffff;
     }
 
-
+    .container .botao-trailer {
+        background-color: #ffffff;
+        color: #000000;
+        border: 2px solid black;
+        box-shadow: 4px 4px 0px black;
+        font-weight: 900;
+    }
   
+    .container .descricao {
+        max-width: 70%;
+    }
+    
+    .footer {
+        max-width: 70vw;
+    }
 
     #nome {
         color: aliceblue;
     }
+}
 
+/* RESPONSIVO DAS FONTES
+- Caso a tela seja menor, a fonte diminuirá de acordo ao tamanho */
+
+@media only screen and (max-width: 650px) {
+    .cabecalho nav li a  {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 959px) {
+    .container .descricao {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .container .descricao{
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    p {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    p {
+        font-size: 8px;
+    }
 }

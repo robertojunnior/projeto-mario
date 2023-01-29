@@ -65,14 +65,14 @@ body {
 .container .botao-trailer {
     background-color: #d5001d;
     color: #ffffff;
-    padding: 15px;
+    padding: 12px;
     font-size: 15
 px;
     font-weight: 700;
     cursor: pointer;
 
     border: none;
-    border-radius: 50px;
+    /* border-radius: 50px; */
 
     text-transform: uppercase;
     transition: 0.5s all ease-in-out;
@@ -167,7 +167,7 @@ exemplo abaixo onde se aborda as duas classes sem espaço */
 /* rodape */
 footer {
     display: flex;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     height: 60px;
     width: 100vw;
@@ -178,6 +178,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 #nome {
