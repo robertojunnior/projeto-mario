@@ -1,0 +1,19 @@
+@media (max-width: 1200px) {
+    body {
+        /* background-color: blueviolet; */
+    
+    
+    
+    }
+
+
+
+    .fundo-video {
+        display: none;
+    }
+
+    .imagem-titulo.imagem-mario {
+        width: 50%;
+    }
+
+}

@@ -149,6 +149,8 @@ px;
    cursor: pointer;
 }
 
+/* não estou usando o elemento .modal iframe abaixo devido o iframe já carregar as informções de borda e tamanho no import do html, vindo do youtube. */
+
 /* .modal iframe {
     border-width: 0;
     width: 860px;
@@ -162,6 +164,7 @@ exemplo abaixo onde se aborda as duas classes sem espaço */
     visibility: visible;
 }
 
+/* rodape */
 footer {
     display: flex;
     position: absolute;
@@ -169,7 +172,6 @@ footer {
     height: 60px;
     width: 100vw;
 
-    /* background-color: #4495FF; */
     font-size: 14px;
     color: #ffffff;
 
