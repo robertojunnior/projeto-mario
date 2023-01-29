@@ -16,8 +16,8 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 20px;
-        height: 80vh;
+        gap: 30px;
+        height: auto;
     }
 
     .container .imagem-titulo {
@@ -61,6 +61,17 @@
         text-decoration: underline;
     }
 }
+
+.modal .video {
+    width: 80%;
+}
+
+.fechar-modal {
+    width: 30px;
+    line-height: 30px;
+}
+
+
 
 /* RESPONSIVO DAS FONTES
 - Caso a tela seja menor, a fonte diminuirá de acordo ao tamanho */

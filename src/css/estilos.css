@@ -157,8 +157,7 @@ px;
     height: 480px;
 } */
 
-/* podemos chamar mais de uma classe em um elemento, como no 
-exemplo abaixo onde se aborda as duas classes sem espaço */
+/* podemos chamar mais de uma classe em um elemento, como no exemplo abaixo onde se aborda as duas classes sem espaço */
 .modal.aberto {
     opacity: 1;
     visibility: visible;
@@ -183,5 +182,4 @@ footer {
 
 #nome {
     color: #DF2D37;
-   
 }
