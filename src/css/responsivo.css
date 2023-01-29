@@ -58,6 +58,7 @@
 
     #nome {
         color: aliceblue;
+        text-decoration: underline;
     }
 }
 
