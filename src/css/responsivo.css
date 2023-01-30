@@ -2,6 +2,9 @@
     body {
         background-image: url(../imagens/background-mobile.webp);
         background-size: cover;
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
         
     }
 
@@ -39,7 +42,7 @@
     }
 
     .container .informacoes p {
-        color: #ffffff;
+        color: #b9b9b9;;
     }
 
     .container .botao-trailer {
@@ -50,8 +53,9 @@
         font-weight: 900;
     }
   
-    .container .descricao {
+    .container .descricao p {
         max-width: 70%;
+    
     }
     
     .footer {
