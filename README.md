@@ -38,9 +38,6 @@
   </div>
 
 <br>
-<br>
-
-<br>
   🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
 </a>
 
@@ -59,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto finalizado com as aulas da imersão Dev em Dobro, agora fica por minha conta estilizar ele e ir fazendo os updates aqui. 
-para ver a ultima versao do projeor clique abaixo👇🏻
+para ver a ultima versao do projeor clique abaixo:
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
