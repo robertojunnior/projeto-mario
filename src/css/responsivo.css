@@ -3,8 +3,8 @@
         background-image: url(../imagens/background-mobile.webp);
         background-size: cover;
         height: 100vh;
-        background-position: center;
         background-repeat: no-repeat;
+        
         
     }
 
@@ -42,7 +42,7 @@
     }
 
     .container .informacoes p {
-        color: #b9b9b9;;
+        color: #b9b9b9;
     }
 
     .container .botao-trailer {
@@ -57,13 +57,14 @@
         max-width: 70%;
     
     }
+
     
     .footer {
         max-width: 70vw;
     }
 
     #nome {
-        color: aliceblue;
+        color: #fafafa;
         text-decoration: underline;
     }
 }
@@ -108,7 +109,7 @@
     }
 
     p {
-        font-size: 12px;
+        font-size: 10px;
     }
 }
 
