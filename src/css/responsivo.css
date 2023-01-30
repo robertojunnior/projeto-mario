@@ -62,9 +62,10 @@
     
     }
 
-    
-    .footer {
-        max-width: 70vw;
+    footer {
+        background-image: url(../imagens/ground-mobile.png);
+        background-size: cover;
+        width: 100vw;
     }
 
     #nome {
