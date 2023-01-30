@@ -166,6 +166,7 @@ body {
 footer {
     display: flex;
     position: fixed;
+    background-origin: bottom;
     bottom: 0;
     height: 60px;
     width: 100vw;
@@ -180,5 +181,6 @@ footer {
 }
 
 #nome {
-    color: #DF2D37;
+    color: #ffffff;
+    text-decoration: underline;
 }

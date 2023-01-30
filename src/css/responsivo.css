@@ -1,8 +1,8 @@
-@media (max-width: 1200px) {
-    body {
-        background-image: url(../imagens/background-mobile.webp);
-        background-size: cover;
+@media (max-width: 1024px) {
+    body {  
+        background-image: url(../imagens/bkg-mobile-portrait.png);
         height: 100vh;
+        background-size: cover;
         background-repeat: no-repeat;
     }
 
@@ -28,7 +28,7 @@
     }
 
     .container .imagem-mario {
-        max-width: 60%;
+        max-width: 70%;
     }
 
     .container .informacoes {
@@ -40,7 +40,7 @@
     }
 
     .container .informacoes p {
-        color: #b9b9b9;
+        color: #97a098;
     }
 
     .container .botao-trailer {
@@ -52,7 +52,7 @@
     }
   
     .container .descricao p {
-        max-width: 70%;
+        max-width: 80%;
     
     }
 
