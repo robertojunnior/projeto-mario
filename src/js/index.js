@@ -12,9 +12,13 @@
 const video = document.getElementById("video");
 const linkDoVideo = video.src;
 
+// Podemos usar o toggle para refatorar no lugar do add e do remove
+// function alteranrModal() {
+//     modal.classList.toggle("aberto")
+// };
+
+
 // Objetivo 1
-// console.log('mostrar o document', document);
-// console.log(document.querySelector(".botao-trailer"));
 
 // Step 1 - Pegar o elemento que representa o button com JS;
 const botaoTrailer =  document.querySelector(".botao-trailer");
