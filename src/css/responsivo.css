@@ -1,6 +1,8 @@
 @media (max-width: 1200px) {
     body {
-        background-color: #d65248;
+        background-image: url(../imagens/background-mobile.webp);
+        background-size: cover;
+        
     }
 
     .cabecalho nav li a:hover {
