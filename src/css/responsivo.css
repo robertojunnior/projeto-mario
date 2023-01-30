@@ -21,11 +21,11 @@
     }
 
     .container .imagem-titulo {
-        max-width: 70%;
+        max-width: 60%;
     }
 
     .container .imagem-mario {
-        max-width: 70%;
+        max-width: 60%;
     }
 
     .container .informacoes {
@@ -102,12 +102,12 @@
     }
 
     p {
-        font-size: 10px;
+        font-size: 12px;
     }
 }
 
 @media only screen and (max-width: 376px) {
     p {
-        font-size: 8px;
+        font-size: 10px;
     }
 }
