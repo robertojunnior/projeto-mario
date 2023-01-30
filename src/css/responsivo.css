@@ -16,7 +16,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 30px;
+        gap: 20px;
         height: auto;
     }
 
@@ -77,10 +77,6 @@
 }
 
 @media only screen and (max-width: 710px) {
-    .container .descricao{
-        font-size: 14px;
-    }
-
     #video {
         width: 90vw;
         height: 360px;
@@ -88,8 +84,16 @@
 }
 
 @media only screen and (max-width: 550px) {
+    .cabecalho {
+        padding: 20px;
+    }
+    
     .cabecalho nav li a  {
         font-size: 16px;
+    }
+
+    .container .descricao{
+        font-size: 14px;
     }
 
     #video {
