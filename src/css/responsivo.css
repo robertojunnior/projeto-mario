@@ -6,12 +6,6 @@
         background-repeat: no-repeat;
     }
 
-    footer {
-        background-image: url(../imagens/ground-mobile.png);
-        background-size: cover;
-        width: 100vw;
-    }
-
     .cabecalho nav li a:hover {
         background-color: #000000;
     }
