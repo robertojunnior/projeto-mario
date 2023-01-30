@@ -1,9 +1,15 @@
 @media (max-width: 1024px) {
     body {  
-        background-image: url(../imagens/bkg-mobile-portrait.png);
+        background-image: url(../imagens/bkg-mobile-portrait-sky.png);
         height: 100vh;
         background-size: cover;
         background-repeat: no-repeat;
+    }
+
+    footer {
+        background-image: url(../imagens/ground-mobile.png);
+        background-size: cover;
+        width: 100vw;
     }
 
     .cabecalho nav li a:hover {
