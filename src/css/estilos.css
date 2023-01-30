@@ -150,11 +150,11 @@ body {
 
 /* não estou usando o elemento .modal iframe abaixo devido o iframe já carregar as informções de borda e tamanho no import do html, vindo do youtube. */
 
-/* .modal iframe {
+.modal iframe {
     border-width: 0;
     width: 860px;
     height: 480px;
-} */
+}
 
 /* podemos chamar mais de uma classe em um elemento, como no exemplo abaixo onde se aborda as duas classes sem espaço */
 .modal.aberto {
