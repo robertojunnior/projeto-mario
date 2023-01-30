@@ -9,9 +9,12 @@
 //     Step 2 - Identificar quando user clicar no "x";
 //     Step 3 - Fechar modal na Tela.
 
-console.log('mostrar o document', document);
+const video = document.getElementById("video");
+const linkDoVideo = video.src;
 
-console.log(document.querySelector(".botao-trailer"));
+// Objetivo 1
+// console.log('mostrar o document', document);
+// console.log(document.querySelector(".botao-trailer"));
 
 // Step 1 - Pegar o elemento que representa o button com JS;
 const botaoTrailer =  document.querySelector(".botao-trailer");
@@ -20,11 +23,27 @@ const botaoTrailer =  document.querySelector(".botao-trailer");
 botaoTrailer.addEventListener("click", () => {
     //     Step 4 - Abrir modal na Tela.
     modal.classList.add("aberto")
+    //     Recolocar o link do video no botao "veja o trailer"
+    video.setAttribute("src", linkDoVideo);      
 });
 
 //     Step 3 - Pegar o elemento do modal no JS;
 const modal = document.querySelector(".modal");
 console.log("mostrar o objeto da modal", modal);
+
+
+// Objetivo 2
+// Step 1 - Pegar o elemento fechar modal com JS;
+const botaoFecharModal = document.querySelector(".fechar-modal");
+
+// Step 2 - Identificar quando user clicar no "x";
+botaoFecharModal.addEventListener("click", () => {
+    // Step 3 - Fechar modal na Tela.
+    modal.classList.remove("aberto");
+    // Step extra - Remover link do trailer vídeo para parar a execução.
+    video.setAttribute("src", "");
+});
+
 
 
 

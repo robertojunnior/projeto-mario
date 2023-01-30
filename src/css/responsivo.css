@@ -74,7 +74,7 @@
 
 @media only screen and (max-width: 376px) {
     .modal #video {
-        width: 250px;
+        width: 90vw;
     }
 }
 
@@ -103,6 +103,10 @@
 @media only screen and (max-width: 550px) {
     p {
         font-size: 10px;
+    }
+
+    .modal #video {
+        width: 90vw;
     }
 }
 
