@@ -56,7 +56,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Projeto finalizado com as aulas da imersão Dev em Dobro, agora fica por minha conta estilizar ele e ir fazendo os updates aqui. 
-para ver a ultima versao do projeor clique abaixo:
+Para ver a ultima versao do projeor clique abaixo:
 
 [Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
 
