@@ -58,13 +58,11 @@
     }
 
     footer {
-        /* background-image: url(../imagens/ground-mobile.png);
-        background-size: cover;
-        width: 100vw; */
+        color: #97a098;
     }
 
     #nome {
-        color: #fafafa;
+        color: #97a098;
         text-decoration: underline;
     }
 }
