@@ -25,16 +25,21 @@
     <h4> Background Original Projeto Dev em Dobro
     <br>
     <br>
-    <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
-    <img src="./src/imagens/background-site1.png" alt="projeto-site-mario">
-    </a>
+      <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
+      <img src="./src/imagens/background-site1.png" alt="projeto-site-mario">
+      </a>
     <br>
     <h4> Background Trailer Oficial Universal Pictures 
     <br>
     <br>
-    <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
-    <img src="./src/imagens/background-site.png" alt="projeto-site-mario">
-    </a>
+      <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
+      <img src="./src/imagens/background-site.png" alt="projeto-site-mario">
+      </a>
+    <br>
+    <h4> Background Mobile - Multiple Screen
+      <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
+      <img src="./src/imagens/background-mockup.png" alt="projeto-site-mario">
+      </a>
   </div>
 
 <br>
