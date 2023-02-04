@@ -58,7 +58,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto finalizado com as aulas da imersão Dev em Dobro, agora fica por minha conta estilizar ele e ir fazendo os updates aqui. 
 Para ver a última versão do projeto clique abaixo:
 
-[Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
+Visite o projeto online https://robertojunnior.github.io/projeto-mario/
 
 
 ## :memo: Licença
@@ -70,7 +70,8 @@ Esse projeto está sob a licença MIT.
 Feito com muito ♥ e algumas horas de tela  😅😁:wave: 
 <br>
 <br>
-🚀[Participe da comunidade DEV EM DOBRO no DISCORD!](https://discord.gg/73Fk62aM)
+🚀Participe da comunidade DEV EM DOBRO no <a target="_blank" href="https://discord.gg/73Fk62aM"> DISCORD!
+</a>
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
