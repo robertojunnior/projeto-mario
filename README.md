@@ -58,7 +58,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto finalizado com as aulas da imersão Dev em Dobro, agora fica por minha conta estilizar ele e ir fazendo os updates aqui. 
 Para ver a última versão do projeto clique abaixo:
 
-Visite o <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/>projeto</a> online!
+Visite o <a target="_blank" href="https://robertojunnior.github.io/projeto-mario">projeto</a> online!
 
 
 ## :memo: Licença
