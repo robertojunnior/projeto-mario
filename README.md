@@ -22,12 +22,15 @@
 <br>
 
   <div align="center">
-    <h4> Background Original Projeto Dev em Dobro
+      <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
+      <img src="./src/imagens/mockup-entrega-github.png" alt="projeto-site-mario">
+      </a>
     <br>
     <br>
       <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
-      <img src="./src/imagens/background-site1.png" alt="projeto-site-mario">
+      <img src="./src/imagens/notebook-mockup-modal.png" alt="projeto-site-mario">
       </a>
+    <br>
     <br>
     <h4> Background Mobile - Multiple Screen
     <br>
@@ -35,6 +38,8 @@
       <a target="_blank" href="https://robertojunnior.github.io/projeto-mario/">
       <img src="./src/imagens/mobile-mockup.png" alt="projeto-site-mario">
       </a>
+      <br>
+      <br>
   </div>
 
 <br>
