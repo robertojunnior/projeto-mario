@@ -5,7 +5,7 @@
 <h1 align="center"> Projeto Super Mario - o Filme </h1>
 
 <p align="center">
-  Projeto desenvolvido na semana DEV EM DOBRO, criamos um background com movimento utilizando o clipe do filme como fundo, foi criado um botão para a chamada do modal com trailer do filme direto do canal oficial da Universal, manipulamos alguns objetos com JavScript no DOM e tudo isso codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
+  Projeto desenvolvido na semana DEV EM DOBRO, criamos um background com movimento utilizando o clipe do filme como fundo, foi criado um botão para a chamada do modal com trailer do filme direto do canal oficial da Universal no Youtube, manipulamos alguns objetos com JavScript no DOM e tudo isso codando com a parceira de estudos @mariantune - A famosa Boroca de Taubaté 😂
 </p>
 
 <p align="center">
