@@ -38,9 +38,6 @@
   </div>
 
 <br>
-<br>
-
-<br>
   🧑‍🚀 Este projeto foi apresentado pelos irmãos Roberto e Ricardo Dias, do canal <a target="_blank" href="https://www.youtube.com/@DevemDobro">"DEV EM DOBRO".
 </a>
 
@@ -58,14 +55,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto esta em 60% aproximado de completude, faltando responsividade mobile, interação com javascri e alguns detalhes.
-O site utiliza de background com vídeo, estilizações em CSS e algumas interações com JavaScript bem legais!
+Projeto finalizado com as aulas da imersão Dev em Dobro, agora fica por minha conta estilizar ele e ir fazendo os updates aqui. 
+Para ver a última versão do projeto clique abaixo:
 
-Na pasta vídeo, coloquei o arquivo do projeto mais o vídeo do Trailer Oficial do canal da Universal Pictures, assim tanto no background quanto no trailer você pode utilziar o vídeo real. <br> 
-<br>
-NOTA: Lembrando que o vídeo  Oficial está em 16:9 então as faixas pretas do Top e Botton estarão visíveis.
-
-[Visite o projeto online](https://robertojunnior.github.io/projeto-mario/)
+Visite o <a target="_blank" href="https://robertojunnior.github.io/projeto-mario">projeto</a> online!
 
 
 ## :memo: Licença
@@ -77,7 +70,8 @@ Esse projeto está sob a licença MIT.
 Feito com muito ♥ e algumas horas de tela  😅😁:wave: 
 <br>
 <br>
-🚀[Participe da comunidade DEV EM DOBRO no DISCORD!](https://discord.gg/73Fk62aM)
+🚀Participe da comunidade DEV EM DOBRO no <a target="_blank" href="https://discord.gg/73Fk62aM"> DISCORD!
+</a>
 
     
 <h4> Obrigado por visitar meu Git e se chegou até aqui dê um "FOLLOW" que retribuo, quem sabe não podemos colaborar em algum projeto juntos?
